@@ -4,6 +4,7 @@ import {
   Route,
   Switch
 } from "react-router-dom";
+import 'antd/dist/antd.css';
 import './App.css'; 
 import SignUp from './components/signup';
 import Login from './components/login';
